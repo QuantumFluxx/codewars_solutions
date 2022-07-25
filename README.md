@@ -10,6 +10,9 @@ Join [CodeWars](https://www.codewars.com/) and follow [me (Alexander)](https://w
 <details>
 <summary>:desktop_computer: <strong>Сlick to view solutions</strong> </summary>
 
+## 8 kyu katas
+
+
 </details>
 
 ------------
