@@ -18,7 +18,7 @@ Join [CodeWars](https://www.codewars.com/) and follow [me (Alexander)](https://w
 ------------
 
 ![](https://www.codewars.com/users/QuantumFluxx/badges/large)
-## Alexander's solutions (Python, SQL):
+## Alexander's solutions (Python):
 
 <details>
 <summary>:desktop_computer: <strong>Сlick to view solutions</strong> </summary>
@@ -156,15 +156,23 @@ Join [CodeWars](https://www.codewars.com/) and follow [me (Alexander)](https://w
 * [Are they the 'same'?](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/6%20kyu%20katas/Are%20they%20the%20'same'.ipynb)
 * [Create Phone Number](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/6%20kyu%20katas/Create%20Phone%20Number.ipynb)
 * [Decode the Morse code](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/6%20kyu%20katas/Decode%20the%20Morse%20code.ipynb)
+* [Detect Pangram](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/6%20kyu%20katas/Detect%20Pangram.ipynb)
 * [Mexican Wave](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/6%20kyu%20katas/Mexican%20Wave.ipynb)
+* [Unique In Order](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/6%20kyu%20katas/Unique%20In%20Order.ipynb)
+* [WeIrD StRiNg CaSe](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/6%20kyu%20katas/WeIrD%20StRiNg%20CaSe.ipynb)
 * [Who likes it?](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/6%20kyu%20katas/Who%20likes%20it.ipynb)
 * [Write Number in Expanded Form](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/6%20kyu%20katas/Write%20Number%20in%20Expanded%20Form.ipynb)
+* [Your order, please](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/6%20kyu%20katas/Your%20order%2C%20please.ipynb)
 
 ## 5 kyu katas
 
 * [Not very secure](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/5%20kyu%20katas/Not%20very%20secure.ipynb)
 * [Scramblies](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/5%20kyu%20katas/Scramblies.ipynb)
 * [Simple Pig Latin](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/5%20kyu%20katas/Simple%20Pig%20Latin.ipynb)
+
+## 4 kyu katas
+
+* [Human readable duration format](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/4%20kyu%20katas/%20Human%20readable%20duration%20format.ipynb)
 
 </details>
 
