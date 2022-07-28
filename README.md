@@ -1,14 +1,26 @@
+<div id="badges" align="center">
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/QuantumFluxx/HackerRank_solutions.svg)](https://github.com/QuantumFluxx/HackerRank_solutions) 
+[![GitHub commit activity the past week, 4 weeks, year](https://img.shields.io/github/commit-activity/y/QuantumFluxx/HackerRank_solutions.svg)](https://github.com/QuantumFluxx/HackerRank_solutions) 
+[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/QuantumFluxx/HackerRank_solutions.svg)](https://github.com/QuantumFluxx/HackerRank_solutions)
+
+</div>
+
 ### This repository was created for collaborative work on solutions to codewars tasks.
 
 Join [CodeWars](https://www.codewars.com/) and follow [me (Alexander)](https://www.codewars.com/users/QuantumFluxx) and [Petr](https://www.codewars.com/users/PetrMarkin)!
 
-**Important! : These solutions for education purpose only. Don't directly use them on Codewars katas. Create your own solutions to learn more.**
+
+>**Note**:
+>**These solutions for education purpose only. Don't directly use them on Codewars katas. Create your own solutions to learn more.**
+
+--------------------
 
 ![](https://www.codewars.com/users/PetrMarkin/badges/large)
 ## Petr's solutions (JavaScript):
 
 <details>
-<summary>:desktop_computer: <strong>Сlick to view solutions</strong> </summary>
+<summary>:desktop_computer: <kbd>Сlick to view solutions</kbd> </summary>
 
 ## 8 kyu katas
 
@@ -21,7 +33,7 @@ Join [CodeWars](https://www.codewars.com/) and follow [me (Alexander)](https://w
 ## Alexander's solutions (Python):
 
 <details>
-<summary>:desktop_computer: <strong>Сlick to view solutions</strong> </summary>
+<summary>:desktop_computer: <kbd>Сlick to view solutions<kbd/> </summary>
 
 ## 8 kyu katas
 
@@ -141,18 +153,25 @@ Join [CodeWars](https://www.codewars.com/) and follow [me (Alexander)](https://w
 * [Breaking chocolate problem](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/7%20kyu%20katas/Breaking%20chocolate%20problem.ipynb)
 * [Calculate Meal Total](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/7%20kyu%20katas/Calculate%20Meal%20Total.ipynb)
 * [Count the divisors of a number](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/7%20kyu%20katas/Count%20the%20divisors%20of%20a%20number.ipynb)
+* [Credit Card Mask](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/7%20kyu%20katas/Credit%20Card%20Mask.ipynb)
 * [Descending Order](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/7%20kyu%20katas/Descending%20Order.ipynb)
+* [Exes and Ohs](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/7%20kyu%20katas/Exes%20and%20Ohs.ipynb)
 * [Fibonacci](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/7%20kyu%20katas/Fibonacci.ipynb)
 * [Friend or Foe](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/7%20kyu%20katas/Friend%20or%20Foe.ipynb)
 * [Highest and Lowest](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/7%20kyu%20katas/Highest%20and%20Lowest.ipynb)
 * [Is It Negative Zero (-0)?](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/7%20kyu%20katas/Is%20It%20Negative%20Zero%20(-0).ipynb)
 * [Is this a triangle?](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/7%20kyu%20katas/Is%20this%20a%20triangle.ipynb)
 * [Jaden Casing Strings](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/7%20kyu%20katas/Jaden%20Casing%20Strings.ipynb)
+* [Mumbling](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/7%20kyu%20katas/Mumbling.ipynb)
 * [No Loops 1 - Small enough](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/7%20kyu%20katas/No%20Loops%201%20-%20Small%20enough.ipynb)
+* [Number of People in the Bus](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/7%20kyu%20katas/Number%20of%20People%20in%20the%20Bus.ipynb)
 * [Predict your age!](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/7%20kyu%20katas/Predict%20your%20age!.ipynb)
+* [Reverse Words](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/7%20kyu%20katas/Reverse%20Words.ipynb)
 * [Shortest Word](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/7%20kyu%20katas/Shortest%20Word.ipynb)
 * [Small enough - Beginner](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/7%20kyu%20katas/Small%20enough%20-%20Beginner.ipynb)
+* [Sort arrays - 1](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/7%20kyu%20katas/Sort%20arrays%20-%201.ipynb)
 * [Sum it continuously](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/7%20kyu%20katas/Sum%20it%20continuously.ipynb)
+* [Sum of Minimums!](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/7%20kyu%20katas/Sum%20of%20Minimums!.ipynb)
 * [Words to sentence](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/7%20kyu%20katas/Words%20to%20sentence.ipynb)
 
 ## 6 kyu katas
