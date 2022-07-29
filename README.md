@@ -1,8 +1,12 @@
 <div id="badges" align="center">
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/QuantumFluxx/HackerRank_solutions.svg)](https://github.com/QuantumFluxx/HackerRank_solutions) 
-[![GitHub commit activity the past week, 4 weeks, year](https://img.shields.io/github/commit-activity/y/QuantumFluxx/HackerRank_solutions.svg)](https://github.com/QuantumFluxx/HackerRank_solutions) 
-[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/QuantumFluxx/HackerRank_solutions.svg)](https://github.com/QuantumFluxx/HackerRank_solutions)
+![](https://w7.pngwing.com/pngs/477/603/png-transparent-codewars-button-icon.png)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/QuantumFluxx/codewars_solutions.svg)](https://github.com/QuantumFluxx/codewars_solutions) 
+[![GitHub commit activity the past week, 4 weeks, year](https://img.shields.io/github/commit-activity/y/QuantumFluxx/codewars_solutions.svg)](https://github.com/QuantumFluxx/codewars_solutions) 
+[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/QuantumFluxx/codewars_solutions.svg)](https://github.com/QuantumFluxx/codewars_solutions)
+![ViewCount](https://views.whatilearened.today/views/github/QuantumFluxx/codewars_solutions.svg?cache=remove)
+![GitHub top language](https://img.shields.io/github/languages/top/QuantumFluxx/codewars_solutions.svg?style=flat)
 
 </div>
 
@@ -177,10 +181,12 @@ Join [CodeWars](https://www.codewars.com/) and follow [me (Alexander)](https://w
 ## 6 kyu katas
 
 * [Are they the 'same'?](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/6%20kyu%20katas/Are%20they%20the%20'same'.ipynb)
+* [Array.diff](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/6%20kyu%20katas/Array.diff.ipynb)
 * [Create Phone Number](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/6%20kyu%20katas/Create%20Phone%20Number.ipynb)
 * [Decode the Morse code](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/6%20kyu%20katas/Decode%20the%20Morse%20code.ipynb)
 * [Detect Pangram](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/6%20kyu%20katas/Detect%20Pangram.ipynb)
 * [Mexican Wave](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/6%20kyu%20katas/Mexican%20Wave.ipynb)
+* [The Supermarket Queue](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/6%20kyu%20katas/The%20Supermarket%20Queue.ipynb)
 * [Unique In Order](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/6%20kyu%20katas/Unique%20In%20Order.ipynb)
 * [WeIrD StRiNg CaSe](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/6%20kyu%20katas/WeIrD%20StRiNg%20CaSe.ipynb)
 * [Who likes it?](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/6%20kyu%20katas/Who%20likes%20it.ipynb)
