@@ -34,10 +34,10 @@ Join [CodeWars](https://www.codewars.com/) and follow [me (Alexander)](https://w
 ------------
 
 ![](https://www.codewars.com/users/QuantumFluxx/badges/large)
-## Alexander's solutions (Python):
+## Python:
 
 <details>
-<summary>:desktop_computer: <kbd>Сlick to view solutions<kbd/> </summary>
+<summary>🐍 <kbd>Сlick to view solutions</kbd> </summary>
 
 ## 8 kyu katas
 
@@ -205,6 +205,28 @@ Join [CodeWars](https://www.codewars.com/) and follow [me (Alexander)](https://w
 
 </details>
 
+## Scala
+<details>
+<summary>🗿 <kbd>Сlick to view solutions</kbd> </summary>
+
+## 8 kyu katas
+
+* [Beginner Series #2 Clock](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Scala/8%20kyu/Beginner%20Series%20%232%20Clock.scala)
+* [Century From Year](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Scala/8%20kyu/Century%20From%20Year.scala)
+* [Convert a Number to a String](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Scala/8%20kyu/Convert%20a%20Number%20to%20a%20String.scala)
+* [Even or Odd](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Scala/8%20kyu/Even%20or%20Odd.scala)
+* [Grasshopper - Summation](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Scala/8%20kyu/Grasshopper%20-%20Summation.scala)
+* [Multiply](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Scala/8%20kyu/Multiply.scala)
+* [Opposite number](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Scala/8%20kyu/Opposite%20number.scala)
+* [Reversed Strings](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Scala/8%20kyu/Reversed%20Strings.scala)
+* [String Repeat](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Scala/8%20kyu/String%20Repeat.scala)
+* [You only need one - Beginner](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Scala/8%20kyu/You%20only%20need%20one%20-%20Beginner.scala)
+
+## 7 kyu katas
+
+* [Descending Order](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Scala/7%20kyu/Descending%20Order.scala)
+
+</details>
 
 ---------------
 
