@@ -66,6 +66,7 @@ Join [CodeWars](https://www.codewars.com/) and follow [me (Alexander)](https://w
 * [Counting sheep...](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/8%20kyu%20katas/Counting%20sheep....ipynb)
 * [DNA to RNA Conversion](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/8%20kyu%20katas/DNA%20to%20RNA%20Conversion.ipynb)
 * [Difference of Volumes of Cuboids](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/8%20kyu%20katas/Difference%20of%20Volumes%20of%20Cuboids.ipynb)
+* [Do I get a bonus?](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/Do%20I%20get%20a%20bonus.py)
 * [Double Char](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/8%20kyu%20katas/Double%20Char.ipynb)
 * [Drink about](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/8%20kyu%20katas/Drink%20about.ipynb)
 * [Even or Odd](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/8%20kyu%20katas/Even%20or%20Odd.ipynb)
@@ -211,6 +212,7 @@ Join [CodeWars](https://www.codewars.com/) and follow [me (Alexander)](https://w
 
 ## 8 kyu katas
 
+* [Beginner - Lost Without a Map](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Scala/8%20kyu/Beginner%20-%20Lost%20Without%20a%20Map.scala)
 * [Beginner Series #2 Clock](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Scala/8%20kyu/Beginner%20Series%20%232%20Clock.scala)
 * [Century From Year](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Scala/8%20kyu/Century%20From%20Year.scala)
 * [Convert a Number to a String](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Scala/8%20kyu/Convert%20a%20Number%20to%20a%20String.scala)
@@ -219,12 +221,32 @@ Join [CodeWars](https://www.codewars.com/) and follow [me (Alexander)](https://w
 * [Multiply](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Scala/8%20kyu/Multiply.scala)
 * [Opposite number](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Scala/8%20kyu/Opposite%20number.scala)
 * [Reversed Strings](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Scala/8%20kyu/Reversed%20Strings.scala)
+* [Square(n)Sum](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Scala/8%20kyu/Square(n)Sum.scala)
 * [String Repeat](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Scala/8%20kyu/String%20Repeat.scala)
+* [Sum of Positive](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Scala/8%20kyu/Sum%20of%20Positive.scala)
 * [You only need one - Beginner](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Scala/8%20kyu/You%20only%20need%20one%20-%20Beginner.scala)
 
 ## 7 kyu katas
 
 * [Descending Order](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Scala/7%20kyu/Descending%20Order.scala)
+
+</details>
+
+## SQL
+<details>
+<summary>🗃 <kbd>Сlick to view solutions</kbd> </summary>
+
+## 8 kyu katas
+
+* [Adults only (SQL for Beginners #1)](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/8%20kyu/Adults%20only%20(SQL%20for%20Beginners%20%231).sql)
+* [Collect Tuition (SQL for Beginners #4)](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/8%20kyu/Collect%20Tuition%20(SQL%20for%20Beginners%20%234).sql)
+* [Even or Odd](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/8%20kyu/Even%20or%20Odd.sql)
+* [Multiply](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/8%20kyu/Multiply.sql)
+* [Opposite number](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/8%20kyu/Opposite%20number.sql)
+
+## 7 kyu katas
+
+* [SQL Basics Simple GROUP BY](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/7%20kyu/SQL%20Basics%20Simple%20GROUP%20BY.sql)
 
 </details>
 
