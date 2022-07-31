@@ -1,0 +1,3 @@
+SELECT
+  NUMBER * (-1) AS res
+FROM OPPOSITE
