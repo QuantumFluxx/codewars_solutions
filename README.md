@@ -21,7 +21,7 @@ Join [CodeWars](https://www.codewars.com/) and follow [me (Alexander)](https://w
 --------------------
 
 ![](https://www.codewars.com/users/PetrMarkin/badges/large)
-## Petr's solutions (JavaScript):
+## JavaScript:
 
 <details>
 <summary>:desktop_computer: <kbd>Сlick to view solutions</kbd> </summary>
@@ -143,6 +143,7 @@ Join [CodeWars](https://www.codewars.com/) and follow [me (Alexander)](https://w
 * [Basic variable assignment](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/Basic%20variable%20assignment%20python.py)
 * [Beginner - Lost Without a Map](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/Beginner%20-%20Lost%20Without%20a%20Map%20python.py)
 * [Beginner - Reduce but Grow](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/Beginner%20-%20Reduce%20but%20Grow%20python.py)
+* [Beginner Series #1 School Paperwork](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/Beginner%20Series%20%231%20School%20Paperwork)
 * [Beginner Series #2 Clock](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/Beginner%20Series%20%232%20Clock.py)
 * [Beginner Series #4 Cockroach](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/Beginner%20Series%20%234%20Cockroach%20python.py)
 * [Calculate average](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/Calculate%20average%20python.py)
@@ -150,6 +151,7 @@ Join [CodeWars](https://www.codewars.com/) and follow [me (Alexander)](https://w
 * [Capitalization and Mutability](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/Capitalization%20and%20Mutability%20python.py)
 * [Cat years, Dog years](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/Cat%20years%2C%20Dog%20years%20python.py)
 * [Century From Year](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/Century%20From%20Year%20python.py)
+* [Chuck Norris VII - True or False (Beginner)](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/Chuck%20Norris%20VII%20-%20True%20or%20False%20(Beginner).py)
 * [Contamination #1 -String-](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/Contamination%20%231%20-String-%20python.py)
 * [Convert a Boolean to a String](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/Convert%20a%20Boolean%20to%20a%20String%20python.py)
 * [Convert a Number to a String!](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/Convert%20a%20Number%20to%20a%20String!%20python.py)
@@ -182,6 +184,7 @@ Join [CodeWars](https://www.codewars.com/) and follow [me (Alexander)](https://w
 * [Grasshopper - Function syntax debugging](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/Grasshopper%20-%20Function%20syntax%20debugging%20python.py)
 * [Grasshopper - Grade book](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/Grasshopper%20-%20Grade%20book%20python.py)
 * [Grasshopper - If/else syntax debug](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/Grasshopper%20-%20If%20else%20syntax%20debug%20python.py)
+* [Grasshopper - Messi Goals](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/Grasshopper%20-%20Messi%20Goals.py)
 * [Grasshopper - Messi goals function](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/Grasshopper%20-%20Messi%20goals%20function%20python.py)
 * [Grasshopper - Personalized Message](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/Grasshopper%20-%20Personalized%20Message%20python.py)
 * [Grasshopper - Summation](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/Grasshopper%20-%20Summation%20python.py)
@@ -356,14 +359,24 @@ Join [CodeWars](https://www.codewars.com/) and follow [me (Alexander)](https://w
 ## 8 kyu katas
 
 * [Adults only (SQL for Beginners #1)](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/8%20kyu/Adults%20only%20(SQL%20for%20Beginners%20%231).sql)
+* [Beginner Series #2 Clock](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/8%20kyu/Beginner%20Series%20%232%20Clock.sql)
 * [Collect Tuition (SQL for Beginners #4)](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/8%20kyu/Collect%20Tuition%20(SQL%20for%20Beginners%20%234).sql)
 * [Even or Odd](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/8%20kyu/Even%20or%20Odd.sql)
+* [Grasshopper - Check for factor](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/8%20kyu/Grasshopper%20-%20Check%20for%20factor.sql)
+* [Grasshopper - Messi goals function](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/8%20kyu/Grasshopper%20-%20Messi%20goals%20function.sql)
+* [Keep Hydrated!](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/8%20kyu/Keep%20Hydrated!.sql)
 * [Multiply](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/8%20kyu/Multiply.sql)
 * [Opposite number](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/8%20kyu/Opposite%20number.sql)
+* [Remove String Spaces](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/8%20kyu/Remove%20String%20Spaces.sql)
+* [Returning Strings](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/8%20kyu/Returning%20Strings.sql)
+* [SQL Basics: Simple SUM](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/8%20kyu/SQL%20Basics%20Simple%20SUM.sql)
+* [SQL Grasshopper: Select Columns](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/8%20kyu/SQL%20Grasshopper%20Select%20Columns.sql)
 
 ## 7 kyu katas
 
-* [SQL Basics Simple GROUP BY](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/7%20kyu/SQL%20Basics%20Simple%20GROUP%20BY.sql)
+* [SQL Basics: Simple GROUP BY](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/7%20kyu/SQL%20Basics%20Simple%20GROUP%20BY.sql)
+* [SQL Basics: Up and Down](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/7%20kyu/SQL%20Basics%20Up%20and%20Down.sql)
+* [SQL with Pokemon: Damage Multipliers](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/7%20kyu/SQL%20with%20Pokemon%20Damage%20Multipliers.sql)
 
 </details>
 
