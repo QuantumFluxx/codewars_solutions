@@ -28,6 +28,9 @@ Join [CodeWars](https://www.codewars.com/) and follow [me (Alexander)](https://w
 
 ## 8 kyu katas
 
+* [Beginner Series #1 School Paperwork](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Petr(PetrMarkin)/8%20kyu%20katas/Beginner%20Series%20%231%20School%20Paperwork.md)
+* [Can we divide it](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Petr(PetrMarkin)/8%20kyu%20katas/Can%20we%20divide%20it.md)
+* [Capitalization and Mutability](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Petr(PetrMarkin)/8%20kyu%20katas/Capitalization%20and%20Mutability.md)
 
 </details>
 
