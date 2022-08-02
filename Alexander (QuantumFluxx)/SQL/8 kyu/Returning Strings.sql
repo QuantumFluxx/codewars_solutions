@@ -1,0 +1,1 @@
+SELECT FORMAT('Hello, %s how are you doing today?', name) as greeting FROM person
