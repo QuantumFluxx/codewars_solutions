@@ -336,21 +336,32 @@ Join [CodeWars](https://www.codewars.com/) and follow [me (Alexander)](https://w
 * [Century From Year](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Scala/8%20kyu/Century%20From%20Year.scala)
 * [Convert a Number to a String](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Scala/8%20kyu/Convert%20a%20Number%20to%20a%20String.scala)
 * [Even or Odd](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Scala/8%20kyu/Even%20or%20Odd.scala)
+* [Expressions Matter](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Scala/8%20kyu/Expressions%20Matter.scala)
+* [Find the smallest integer in the array](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Scala/8%20kyu/Find%20the%20smallest%20integer%20in%20the%20array.scala)
+* [Get Planet Name By ID](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Scala/8%20kyu/Get%20Planet%20Name%20By%20ID.scala)
+* [Grasshopper - Check for factor](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Scala/8%20kyu/Grasshopper%20-%20Check%20for%20factor.scala)
 * [Grasshopper - Summation](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Scala/8%20kyu/Grasshopper%20-%20Summation.scala)
 * [Multiply](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Scala/8%20kyu/Multiply.scala)
+* [My head is at the wrong end!](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Scala/8%20kyu/My%20head%20is%20at%20the%20wrong%20end!.scala)
 * [Opposite number](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Scala/8%20kyu/Opposite%20number.scala)
 * [Remove First And Last Characters](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Scala/8%20kyu/Remove%20First%20And%20Last%20Characters.scala)
 * [Remove String Spaces](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Scala/8%20kyu/Remove%20String%20Spaces.scala)
+* [Removing Elements](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Scala/8%20kyu/Removing%20Elements.scala)
 * [Return Negative](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Scala/8%20kyu/Return%20Negative.scala)
+* [Returning Strings](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Scala/8%20kyu/Returning%20Strings.scala)
 * [Reversed Strings](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Scala/8%20kyu/Reversed%20Strings.scala)
+* [Simple multiplication](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Scala/8%20kyu/Simple%20multiplication.scala)
 * [Square(n)Sum](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Scala/8%20kyu/Square(n)Sum.scala)
 * [String Repeat](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Scala/8%20kyu/String%20Repeat.scala)
 * [Sum of Positive](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Scala/8%20kyu/Sum%20of%20Positive.scala)
+* [Total amount of points](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Scala/8%20kyu/Total%20amount%20of%20points.scala)
 * [You only need one - Beginner](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Scala/8%20kyu/You%20only%20need%20one%20-%20Beginner.scala)
 
 ## 7 kyu katas
 
+* [Beginner Series #3 Sum of Numbers](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Scala/7%20kyu/Beginner%20Series%20%233%20Sum%20of%20Numbers.scala)
 * [Descending Order](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Scala/7%20kyu/Descending%20Order.scala)
+* [Shortest Word](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Scala/7%20kyu/Shortest%20Word.scala)
 
 </details>
 
@@ -363,9 +374,14 @@ Join [CodeWars](https://www.codewars.com/) and follow [me (Alexander)](https://w
 * [Adults only (SQL for Beginners #1)](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/8%20kyu/Adults%20only%20(SQL%20for%20Beginners%20%231).sql)
 * [Beginner Series #2 Clock](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/8%20kyu/Beginner%20Series%20%232%20Clock.sql)
 * [Collect Tuition (SQL for Beginners #4)](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/8%20kyu/Collect%20Tuition%20(SQL%20for%20Beginners%20%234).sql)
+* [Easy SQL: LowerCase](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/8%20kyu/Easy%20SQL%20LowerCase.sql)
+* [Easy SQL: Ordering](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/8%20kyu/Easy%20SQL%20Ordering.sql)
+* [Easy SQL: Rounding Decimals](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/8%20kyu/Easy%20SQL%20Rounding%20Decimals.sql)
+* [Easy SQL: Square Root and Log](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/8%20kyu/Easy%20SQL%20Square%20Root%20and%20Log.sql)
 * [Even or Odd](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/8%20kyu/Even%20or%20Odd.sql)
 * [Grasshopper - Check for factor](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/8%20kyu/Grasshopper%20-%20Check%20for%20factor.sql)
 * [Grasshopper - Messi goals function](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/8%20kyu/Grasshopper%20-%20Messi%20goals%20function.sql)
+* [Grasshopper - Terminal game move function](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/8%20kyu/Grasshopper%20-%20Terminal%20game%20move%20function.sql)
 * [Keep Hydrated!](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/8%20kyu/Keep%20Hydrated!.sql)
 * [Multiply](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/8%20kyu/Multiply.sql)
 * [Opposite number](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/8%20kyu/Opposite%20number.sql)
@@ -375,6 +391,7 @@ Join [CodeWars](https://www.codewars.com/) and follow [me (Alexander)](https://w
 * [SQL Basics: Simple DISTINCT](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/8%20kyu/SQL%20Basics%20Simple%20DISTINCT.sql)
 * [SQL Basics: Simple MIN MAX](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/8%20kyu/SQL%20Basics%20Simple%20MIN%20MAX.sql)
 * [SQL Basics: Simple SUM](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/8%20kyu/SQL%20Basics%20Simple%20SUM.sql)
+* [SQL Basics: Simple WHERE and ORDER BY](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/8%20kyu/SQL%20Basics%20Simple%20WHERE%20and%20ORDER%20BY.sql)
 * [SQL Grasshopper: Select Columns](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/8%20kyu/SQL%20Grasshopper%20Select%20Columns.sql)
 
 ## 7 kyu katas
