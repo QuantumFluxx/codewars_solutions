@@ -402,6 +402,41 @@ Join [CodeWars](https://www.codewars.com/) and follow [me (Alexander)](https://w
 
 </details>
 
+## Ruby
+
+<details>
+<summary>🤹🏻‍♀️ <kbd>Сlick to view solutions</kbd> </summary>
+
+## 8 kyu katas
+
+* [Is n divisible by x and y?](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/%20Is%20n%20divisible%20by%20x%20and%20y.rb)
+* [Area or Perimeter](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/Area%20or%20Perimeter.rb)
+* [Beginner Series #2 Clock](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/Beginner%20Series%20%232%20Clock.rb)
+* [Beginner Series #4 Cockroach](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/Beginner%20Series%20%234%20Cockroach.rb)
+* [Convert a Boolean to a String](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/Convert%20a%20Boolean%20to%20a%20String.rb)
+* [Convert a String to a Number!](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/Convert%20a%20String%20to%20a%20Number!.rb)
+* [Convert boolean values to strings 'Yes' or 'No'](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/Convert%20boolean%20values%20to%20strings%20'Yes'%20or%20'No'.rb)
+* [Find the smallest integer in the array](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/Find%20the%20smallest%20integer%20in%20the%20array.rb)
+* [Function 1 - hello world](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/Function%201%20-%20hello%20world.rb)
+* [Function 3 - multiplying two numbers](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/Function%203%20-%20multiplying%20two%20numbers.rb)
+* [Grasshopper - Debug sayHello](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/Grasshopper%20-%20Debug%20sayHello.rb)
+* [Grasshopper - Messi goals function](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/Grasshopper%20-%20Messi%20goals%20function.rb)
+* [Grasshopper - Summation](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/Grasshopper%20-%20Summation.rb)
+* [Is it a palindrome?](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/Is%20it%20a%20palindrome.rb)
+* [Is it even?](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/Is%20it%20even.rb)
+* [Remove First and Last Character](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/Remove%20First%20and%20Last%20Character.rb)
+* [Remove String Spaces](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/Remove%20String%20Spaces.rb)
+* [Reversed Strings](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/Reversed%20Strings.rb)
+* [Square(n) Sum](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/Square(n)%20Sum.rb)
+* [String repeat](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/String%20repeat.rb)
+* [Sum Arrays](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/Sum%20Arrays.rb)
+* [Sum The Strings](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/Sum%20The%20Strings.rb)
+* [Sum of positive](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/Sum%20of%20positive.rb)
+* [Volume of a Cuboid](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/Volume%20of%20a%20Cuboid.rb)
+* [You Can't Code Under Pressure #1](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/You%20Can't%20Code%20Under%20Pressure%20%231.rb)
+
+</details>
+
 ---------------
 
 [Petr's GitHub page](https://github.com/PetrMarkin)
