@@ -287,9 +287,12 @@ Join [CodeWars](https://www.codewars.com/) and follow [me (Alexander)](https://w
 * [Sort arrays - 1](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/Sort%20arrays%20-%201%20python.py)
 * [Sorted? yes? no? how?](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/Sorted%20yes%20no%20how.py)
 * [String ends with](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/String%20ends%20with)
+* [Strings starts with](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/Strings%20starts%20with.py)
 * [Sum it continuously](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/Sum%20it%20continuously%20python.py)
 * [Sum of Minimums!](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/Sum%20of%20Minimums!%20python.py)
 * [Sum of a sequence](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/Sum%20of%20a%20sequence.py)
+* [Sum of two lowest positive integers](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/Sum%20of%20two%20lowest%20positive%20integers.py)
+* [V A P O R C O D E](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/V%20A%20P%20O%20R%20C%20O%20D%20E.py)
 * [Words to sentence](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/Words%20to%20sentence%20python.py)
 
 ## 6 kyu katas
@@ -301,6 +304,7 @@ Join [CodeWars](https://www.codewars.com/) and follow [me (Alexander)](https://w
 * [Create Phone Number](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/6%20kyu%20katas/Create%20Phone%20Number.py)
 * [Decode the Morse code](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/6%20kyu%20katas/Decode%20the%20Morse%20code.py)
 * [Detect Pangram](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/6%20kyu%20katas/Detect%20Pangram.py)
+* [Find X](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/6%20kyu%20katas/Find%20X.py)
 * [Mexican Wave](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/6%20kyu%20katas/Mexican%20Wave.py)
 * [The Supermarket Queue](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/6%20kyu%20katas/The%20Supermarket%20Queue.py)
 * [Tribonacci Sequence](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/6%20kyu%20katas/Tribonacci%20Sequence.py)
