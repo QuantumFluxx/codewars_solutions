@@ -2,6 +2,7 @@
 
 ![](https://w7.pngwing.com/pngs/477/603/png-transparent-codewars-button-icon.png)
 
+[![Codewars](https://img.shields.io/badge/website-Codewars-red)](https://www.codewars.com/) 
 [![GitHub last commit](https://img.shields.io/github/last-commit/QuantumFluxx/codewars_solutions.svg)](https://github.com/QuantumFluxx/codewars_solutions) 
 [![GitHub commit activity the past week, 4 weeks, year](https://img.shields.io/github/commit-activity/y/QuantumFluxx/codewars_solutions.svg)](https://github.com/QuantumFluxx/codewars_solutions) 
 [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/QuantumFluxx/codewars_solutions.svg)](https://github.com/QuantumFluxx/codewars_solutions)
@@ -428,6 +429,12 @@ Join [CodeWars](https://www.codewars.com/) and follow [me (Alexander)](https://w
 * [SQL with Sailor Moon: Thinking about JOINs](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/7%20kyu/SQL%20with%20Sailor%20Moon%20Thinking%20about%20JOINs.sql)
 * [SQL with Street Fighter: Total Wins](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/7%20kyu/SQL%20with%20Street%20Fighter%20Total%20Wins.sql)
 
+## 6 kyu katas
+  
+* [SQL Basics: Simple HAVING](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/6%20kyu/SQL%20Basics%20Simple%20HAVING.sql)
+* [SQL Basics: Simple NULL handling](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/6%20kyu/SQL%20Basics%20Simple%20NULL%20handling.sql)
+* [SQL Basics: Simple table totaling](http://localhost:8888/edit/pj/codewars_solutions/Alexander%20(QuantumFluxx)/SQL/6%20kyu/SQL%20Basics%20Simple%20table%20totaling.sql)
+  
 </details>
 
 ## Ruby
@@ -444,17 +451,26 @@ Join [CodeWars](https://www.codewars.com/) and follow [me (Alexander)](https://w
 * [Convert a Boolean to a String](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/Convert%20a%20Boolean%20to%20a%20String.rb)
 * [Convert a String to a Number!](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/Convert%20a%20String%20to%20a%20Number!.rb)
 * [Convert boolean values to strings 'Yes' or 'No'](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/Convert%20boolean%20values%20to%20strings%20'Yes'%20or%20'No'.rb)
+* [DNA to RNA Conversion](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/DNA%20to%20RNA%20Conversion.rb)
+* [Find Maximum and Minimum Values of a List](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/Find%20Maximum%20and%20Minimum%20Values%20of%20a%20List.rb)
 * [Find the smallest integer in the array](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/Find%20the%20smallest%20integer%20in%20the%20array.rb)
 * [Function 1 - hello world](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/Function%201%20-%20hello%20world.rb)
 * [Function 3 - multiplying two numbers](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/Function%203%20-%20multiplying%20two%20numbers.rb)
+* [Get the mean of an array](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/Get%20the%20mean%20of%20an%20array.rb)
 * [Grasshopper - Debug sayHello](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/Grasshopper%20-%20Debug%20sayHello.rb)
 * [Grasshopper - Messi goals function](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/Grasshopper%20-%20Messi%20goals%20function.rb)
 * [Grasshopper - Summation](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/Grasshopper%20-%20Summation.rb)
+* [How good are you really?](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/How%20good%20are%20you%20really.rb)
 * [Is it a palindrome?](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/Is%20it%20a%20palindrome.rb)
 * [Is it even?](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/Is%20it%20even.rb)
+* [Is n divisible by x and y?](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/Is%20n%20divisible%20by%20x%20and%20y.rb)
+* [Jenny's secret message](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/Jenny's%20secret%20message.rb)
+* [MakeUpperCase](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/MakeUpperCase.rb)
 * [Remove First and Last Character](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/Remove%20First%20and%20Last%20Character.rb)
 * [Remove String Spaces](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/Remove%20String%20Spaces.rb)
+* [Returning Strings](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/Returning%20Strings.rb)
 * [Reversed Strings](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/Reversed%20Strings.rb)
+* [Simple multiplication](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/Simple%20multiplication.rb)
 * [Square(n) Sum](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/Square(n)%20Sum.rb)
 * [String repeat](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/String%20repeat.rb)
 * [Sum Arrays](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/Sum%20Arrays.rb)
