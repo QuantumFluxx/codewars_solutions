@@ -227,6 +227,7 @@ Join [CodeWars](https://www.codewars.com/) and follow [me (Alexander)](https://w
 * [Short Long Short](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/Short%20Long%20Short%20python.py)
 * [Simple multiplication](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/Simple%20multiplication%20python.py)
 * [Simple validation of a username with regex](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/Simple%20validation%20of%20a%20username%20with%20regex%20python.py)
+* [Sort and Star](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/Sort%20and%20Star.py)
 * [Square(n)Sum](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/Square(n)%20Sum%20python.py)
 * [String Templates - Bug Fixing #5](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/String%20Templates%20-%20Bug%20Fixing%20%235%20python.py)
 * [String repeat](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/String%20repeat%20python.py)
@@ -257,6 +258,7 @@ Join [CodeWars](https://www.codewars.com/) and follow [me (Alexander)](https://w
 * [Anagram Detection](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/Anagram%20Detection%20python.py)
 * [Are the numbers in order?](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/Are%20the%20numbers%20in%20order%20python.py)
 * [Breaking chocolate problem](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/Breaking%20chocolate%20problem%20python.py)
+* [Bumps in the Road](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/Bumps%20in%20the%20Road.py)
 * [Calculate Meal Total](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/Calculate%20Meal%20Total%20python.py)
 * [Count the divisors of a number](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/Count%20the%20divisors%20of%20a%20number%20python.py)
 * [Credit Card Mask](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/Credit%20Card%20Mask%20python.py)
@@ -409,20 +411,26 @@ Join [CodeWars](https://www.codewars.com/) and follow [me (Alexander)](https://w
 * [Easy SQL: Bit Length](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/7%20kyu/Easy%20SQL%20Bit%20Length.sql)
 * [Easy SQL: Counting and Grouping](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/7%20kyu/Easy%20SQL%20Counting%20and%20Grouping.sql)
 * [Easy SQL: Cube Root and Natural Log](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/7%20kyu/Easy%20SQL%20Cube%20Root%20and%20Natural%20Log.sql)
+* [First and last IP in a network](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/7%20kyu/First%20and%20last%20IP%20in%20a%20network.sql)
 * [GROCERY STORE: Inventory](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/7%20kyu/GROCERY%20STORE%20Inventory.sql)
+* [GROCERY STORE: Real Price!](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/7%20kyu/GROCERY%20STORE%20Real%20Price!.sql)
 * [GROCERY STORE: Support Local Products](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/7%20kyu/GROCERY%20STORE%20Support%20Local%20Products.sql)
 * [Hello SQL World!](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/7%20kyu/Hello%20SQL%20World!.sql)
+* [Maximum Multiple](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/7%20kyu/Maximum%20Multiple.sql)
 * [SQL Basics: Position](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/7%20kyu/SQL%20Basics%20-%20Position.sql)
 * [SQL Basics: Trimming the Field](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/7%20kyu/SQL%20Basics%20-%20Trimming%20the%20Field.sql)
 * [SQL Basics: Maths with String Manipulations](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/7%20kyu/SQL%20Basics%20Maths%20with%20String%20Manipulations.sql)
 * [SQL Basics: Raise to the Power](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/7%20kyu/SQL%20Basics%20Raise%20to%20the%20Power.sql)
 * [SQL Basics: Repeat and Reverse](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/7%20kyu/SQL%20Basics%20Repeat%20and%20Reverse.sql)
 * [SQL Basics: Simple GROUP BY](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/7%20kyu/SQL%20Basics%20Simple%20GROUP%20BY.sql)
+* [SQL Basics: Simple JOIN with COUNT](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/7%20kyu/SQL%20Basics%20Simple%20JOIN%20with%20COUNT.sql)
 * [SQL Basics: Truncating](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/7%20kyu/SQL%20Basics%20Truncating.sql)
 * [SQL Basics: Up and Down](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/7%20kyu/SQL%20Basics%20Up%20and%20Down.sql)
 * [SQL: Concatenating Columns](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/7%20kyu/SQL%20Basics%20Up%20and%20Down.sql)
 * [SQL: Disorder](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/7%20kyu/SQL%20Disorder.sql)
+* [SQL: Padding Encryption](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/7%20kyu/SQL%20Padding%20Encryption.sql)
 * [SQL: Right and Left](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/7%20kyu/SQL%20Right%20and%20Left.sql)
+* [SQL: easy regex extraction](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/7%20kyu/SQL%20easy%20regex%20extraction.sql)
 * [SQL with Harry Potter: Sorting Hat Comparators](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/7%20kyu/SQL%20with%20Harry%20Potter%20Sorting%20Hat%20Comparators.sql)
 * [SQL with LOTR: Elven Wildcards](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/7%20kyu/SQL%20with%20LOTR%20Elven%20Wildcards.sql)
 * [SQL with Pokemon: Damage Multipliers](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/7%20kyu/SQL%20with%20Pokemon%20Damage%20Multipliers.sql)
@@ -432,9 +440,15 @@ Join [CodeWars](https://www.codewars.com/) and follow [me (Alexander)](https://w
 ## 6 kyu katas
   
 * [SQL Basics: Simple HAVING](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/6%20kyu/SQL%20Basics%20Simple%20HAVING.sql)
+* [SQL Basics: Simple JOIN and RANK](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/6%20kyu/SQL%20Basics%20Simple%20JOIN%20and%20RANK.sql)
 * [SQL Basics: Simple NULL handling](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/6%20kyu/SQL%20Basics%20Simple%20NULL%20handling.sql)
 * [SQL Basics: Simple table totaling](http://localhost:8888/edit/pj/codewars_solutions/Alexander%20(QuantumFluxx)/SQL/6%20kyu/SQL%20Basics%20Simple%20table%20totaling.sql)
   
+## 5 kyu katas
+
+* [SQL Basics: Group By Day](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/5%20kyu/SQL%20Basics%20Group%20By%20Day.sql)
+* [SQL Statistics: MIN, MEDIAN, MAX](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/SQL/5%20kyu/SQL%20Statistics%20MIN%2C%20MEDIAN%2C%20MAX.sql)
+
 </details>
 
 ## Ruby
@@ -478,6 +492,11 @@ Join [CodeWars](https://www.codewars.com/) and follow [me (Alexander)](https://w
 * [Sum of positive](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/Sum%20of%20positive.rb)
 * [Volume of a Cuboid](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/Volume%20of%20a%20Cuboid.rb)
 * [You Can't Code Under Pressure #1](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/8%20kyu/You%20Can't%20Code%20Under%20Pressure%20%231.rb)
+
+## 7 kyu katas
+
+* [Descending Order](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/7%20kyu/Descending%20Order.rb)
+* [String ends with](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Ruby/7%20kyu/String%20ends%20with.rb)
 
 </details>
 
