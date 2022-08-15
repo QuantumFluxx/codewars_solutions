@@ -144,7 +144,7 @@ Join [CodeWars](https://www.codewars.com/) and follow [me (Alexander)](https://w
 * [Basic variable assignment](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/Basic%20variable%20assignment%20python.py)
 * [Beginner - Lost Without a Map](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/Beginner%20-%20Lost%20Without%20a%20Map%20python.py)
 * [Beginner - Reduce but Grow](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/Beginner%20-%20Reduce%20but%20Grow%20python.py)
-* [Beginner Series #1 School Paperwork](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/Beginner%20Series%20%231%20School%20Paperwork)
+* [Beginner Series #1 School Paperwork](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/Beginner%20Series%20%231%20School%20Paperwork.py)
 * [Beginner Series #2 Clock](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/Beginner%20Series%20%232%20Clock.py)
 * [Beginner Series #4 Cockroach](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/Beginner%20Series%20%234%20Cockroach%20python.py)
 * [Calculate average](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/Calculate%20average%20python.py)
@@ -307,6 +307,7 @@ Join [CodeWars](https://www.codewars.com/) and follow [me (Alexander)](https://w
 * [Sum of a sequence](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/Sum%20of%20a%20sequence.py)
 * [Sum of angles](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/Sum%20of%20angles.py)
 * [Sum of two lowest positive integers](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/Sum%20of%20two%20lowest%20positive%20integers.py)
+* [Two to One](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/Two%20to%20One.py)
 * [V A P O R C O D E](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/V%20A%20P%20O%20R%20C%20O%20D%20E.py)
 * [Words to sentence](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/Words%20to%20sentence%20python.py)
 
