@@ -284,6 +284,7 @@ Join [CodeWars](https://www.codewars.com/) and follow [me (Alexander)](https://w
 * [Isograms](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/Isograms)
 * [Jaden Casing Strings](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/Jaden%20Casing%20Strings%20python.py)
 * [Make a function that does arithmetic!](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/Make%20a%20function%20that%20does%20arithmetic!.py)
+* [Multiply Word in String](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/Multiply%20Word%20in%20String.py)
 * [Mumbling](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/Mumbling%20python.py)
 * [No Loops 1 - Small enough](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/No%20Loops%201%20-%20Small%20enough%20python.py)
 * [Number of Decimal Digits](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/Number%20of%20Decimal%20Digits.py)
@@ -310,7 +311,8 @@ Join [CodeWars](https://www.codewars.com/) and follow [me (Alexander)](https://w
 * [Two to One](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/Two%20to%20One.py)
 * [V A P O R C O D E](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/V%20A%20P%20O%20R%20C%20O%20D%20E.py)
 * [Words to sentence](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/Words%20to%20sentence%20python.py)
-
+* [You're a square!](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/You're%20a%20square!.py)
+  
 ## 6 kyu katas
 
 * [Are they the 'same'?](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/6%20kyu%20katas/Are%20they%20the%20'same'.py)
