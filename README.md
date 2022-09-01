@@ -171,6 +171,7 @@ Join [CodeWars](https://www.codewars.com/) and follow [me (Alexander)](https://w
 * [Even or Odd](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/Even%20or%20Odd%20python.py)
 * [Exclusive or (xor) Logical Operator](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/Exclusive%20or%20(xor)%20Logical%20Operator%20python.py)
 * [FIXME: Replace all dots](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/FIXME%20Replace%20all%20dots%20python.py)
+* [Filling an array (part 1)](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/Filling%20an%20array%20(part%201).py)
 * [Find Maximum and Minimum Values of a List](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/Find%20Maximum%20and%20Minimum%20Values%20of%20a%20List%20python.py)
 * [Find Multiples of a Number](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/Find%20Multiples%20of%20a%20Number%20python.py)
 * [Find the Difference in Age between Oldest and Youngest Family Members](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/Find%20the%20Difference%20in%20Age%20between%20Oldest%20and%20Youngest%20Family%20Members%20python.py)
