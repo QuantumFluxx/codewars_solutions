@@ -134,6 +134,7 @@ Join [CodeWars](https://www.codewars.com/) and follow [me (Alexander)](https://w
 
 ## 8 kyu katas
 
+* [5 without numbers !!](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/5%20without%20numbers%20!!.py)
 * [A Needle in the Haystack](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/A%20Needle%20in%20the%20Haystack%20python.py)
 * [Abbreviate a Two Word Name](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/Abbreviate%20a%20Two%20Word%20Name%20python.py)
 * [Add Length](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/Add%20Length%20python.py)
@@ -264,6 +265,7 @@ Join [CodeWars](https://www.codewars.com/) and follow [me (Alexander)](https://w
 ## 7 kyu katas
 
 * [16+18=214](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/16%2B18%3D214%20python.py)
+* [Alphabetically ordered](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/Alphabetically%20ordered.py)
 * [Anagram Detection](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/Anagram%20Detection%20python.py)
 * [Are the numbers in order?](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/Are%20the%20numbers%20in%20order%20python.py)
 * [Breaking chocolate problem](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/Breaking%20chocolate%20problem%20python.py)
@@ -326,6 +328,7 @@ Join [CodeWars](https://www.codewars.com/) and follow [me (Alexander)](https://w
 * [Find X](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/6%20kyu%20katas/Find%20X.py)
 * [Mexican Wave](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/6%20kyu%20katas/Mexican%20Wave.py)
 * [Replace With Alphabet Position](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/6%20kyu%20katas/Replace%20With%20Alphabet%20Position.py)
+* [SHA-256](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/6%20kyu%20katas/SHA-256.py)
 * [Stop gninnipS My sdroW!](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/6%20kyu%20katas/Stop%20gninnipS%20My%20sdroW!.py)
 * [The Supermarket Queue](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/6%20kyu%20katas/The%20Supermarket%20Queue.py)
 * [Tribonacci Sequence](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/6%20kyu%20katas/Tribonacci%20Sequence.py)
