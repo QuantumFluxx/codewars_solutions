@@ -126,7 +126,6 @@ Join [CodeWars](https://www.codewars.com/) and follow [me (Alexander)](https://w
 
 ------------
 
-![](https://www.codewars.com/users/QuantumFluxx/badges/large)
 ## Python:
 
 <details>
