@@ -327,7 +327,9 @@ Join [CodeWars](https://www.codewars.com/) and follow [me (Alexander)](https://w
   
 ## 6 kyu katas
 
+* [+1 Array](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/6%20kyu%20katas/%2B1%20Array.py)
 * [Are they the 'same'?](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/6%20kyu%20katas/Are%20they%20the%20'same'.py)
+* [Are you available?](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/6%20kyu%20katas/Are%20you%20available.py)
 * [Array diff](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/6%20kyu%20katas/Array%20diff.py)
 * [Arrh grabscrab](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/6%20kyu%20katas/Arrh%20grabscrab.py)
 * [Bit Counting](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/6%20kyu%20katas/Bit%20Counting.py)
@@ -338,6 +340,7 @@ Join [CodeWars](https://www.codewars.com/) and follow [me (Alexander)](https://w
 * [Drunk friend](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/6%20kyu%20katas/Drunk%20friend.py)
 * [Find X](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/6%20kyu%20katas/Find%20X.py)
 * [Mexican Wave](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/6%20kyu%20katas/Mexican%20Wave.py)
+* [Pyramid Array](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/6%20kyu%20katas/Pyramid%20Array.py)
 * [Replace With Alphabet Position](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/6%20kyu%20katas/Replace%20With%20Alphabet%20Position.py)
 * [SHA-256](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/6%20kyu%20katas/SHA-256.py)
 * [Stop gninnipS My sdroW!](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/6%20kyu%20katas/Stop%20gninnipS%20My%20sdroW!.py)
