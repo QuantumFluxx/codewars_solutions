@@ -266,9 +266,12 @@ Join [CodeWars](https://www.codewars.com/) and follow [me (Alexander)](https://w
 ## 7 kyu katas
 
 * [16+18=214](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/16%2B18%3D214%20python.py)
+* [ASCII letters from Number](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/ASCII%20letters%20from%20Number.py)
 * [Alphabetically ordered](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/Alphabetically%20ordered.py)
 * [Anagram Detection](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/Anagram%20Detection%20python.py)
 * [Are the numbers in order?](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/Are%20the%20numbers%20in%20order%20python.py)
+* [Balanced Number (Special Numbers Series #1)](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/Balanced%20Number%20(Special%20Numbers%20Series%20%231).py)
+* [Basic Sequence Practice](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/Basic%20Sequence%20Practice.py)
 * [Breaking chocolate problem](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/Breaking%20chocolate%20problem%20python.py)
 * [Bumps in the Road](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/Bumps%20in%20the%20Road.py)
 * [Calculate Meal Total](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/Calculate%20Meal%20Total%20python.py)
