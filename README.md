@@ -343,6 +343,7 @@ Join [CodeWars](https://www.codewars.com/) and follow [me (Alexander)](https://w
 * [Array diff](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/6%20kyu%20katas/Array%20diff.py)
 * [Arrh grabscrab](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/6%20kyu%20katas/Arrh%20grabscrab.py)
 * [Bit Counting](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/6%20kyu%20katas/Bit%20Counting.py)
+* [Break camelCase](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/6%20kyu%20katas/Break%20camelCase.py)
 * [Counting Duplicates](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/6%20kyu%20katas/Counting%20Duplicates.py)
 * [Create Phone Number](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/6%20kyu%20katas/Create%20Phone%20Number.py)
 * [Decode the Morse code](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/6%20kyu%20katas/Decode%20the%20Morse%20code.py)
@@ -364,6 +365,7 @@ Join [CodeWars](https://www.codewars.com/) and follow [me (Alexander)](https://w
 
 ## 5 kyu katas
 
+* [First non-repeating character](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/5%20kyu%20katas/First%20non-repeating%20character.py)
 * [Greed is Good](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/5%20kyu%20katas/Greed%20is%20Good.py)
 * [Last digit of a large number](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/5%20kyu%20katas/Last%20digit%20of%20a%20large%20number.py)
 * [Moving Zeros To The End](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/5%20kyu%20katas/Moving%20Zeros%20To%20The%20End.py)
