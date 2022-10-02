@@ -294,6 +294,8 @@ Join [CodeWars](https://www.codewars.com/) and follow [me (Alexander)](https://w
 * [Exes and Ohs](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/Exes%20and%20Ohs%20python.py)
 * [Fibonacci](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/Fibonacci%20python.py)
 * [Find The Duplicated Number in a Consecutive Unsorted List](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/Find%20The%20Duplicated%20Number%20in%20a%20Consecutive%20Unsorted%20List.py)
+* [Find all occurrences of an element in an array](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/Find%20all%20occurrences%20of%20an%20element%20in%20an%20array.py)
+* [Find the capitals](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/Find%20the%20capitals.py)
 * [Four/Seven](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/Four%20seven.py)
 * [Friend or Foe](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/Friend%20or%20Foe%20python.py)
 * [Get the Middle Character](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/7%20kyu%20katas/Get%20the%20Middle%20Character.py)
