@@ -244,6 +244,7 @@ Join [CodeWars](https://www.codewars.com/) and follow [me (Alexander)](https://w
 * [Square(n)Sum](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/Square(n)%20Sum%20python.py)
 * [String Templates - Bug Fixing #5](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/String%20Templates%20-%20Bug%20Fixing%20%235%20python.py)
 * [String repeat](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/String%20repeat%20python.py)
+* [Stringy Strings](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/Stringy%20Strings.py)
 * [Sum Arrays](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/Sum%20Arrays%20python.py)
 * [Sum Mixed Array](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/Sum%20Mixed%20Array.py)
 * [Sum of positive](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/Sum%20of%20positive%20python.py)
@@ -268,6 +269,7 @@ Join [CodeWars](https://www.codewars.com/) and follow [me (Alexander)](https://w
 * [You Can't Code Under Pressure #1](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/You%20Can't%20Code%20Under%20Pressure%20%231%20python.py)
 * [altERnaTIng cAsE = ALTerNAtiNG CaSe](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe%20python.py)
 * [easy logs](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/easy%20logs.py)
+* [noobCode 01: SUPERSIZE ME.... or rather, this integer!](https://github.com/QuantumFluxx/codewars_solutions/blob/main/Alexander%20(QuantumFluxx)/Python/8%20kyu%20katas/noobCode%2001%20SUPERSIZE%20ME....%20or%20rather%2C%20this%20integer!%20(retired).py)
 
 ## 7 kyu katas
 
