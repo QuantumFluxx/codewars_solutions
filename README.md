@@ -582,7 +582,3 @@ Join [CodeWars](https://www.codewars.com/) and follow [me (Alexander)](https://w
 </details>
 
 ---------------
-
-[Petr's GitHub page](https://github.com/PetrMarkin)
-
-[Alexander's GitHub page](https://github.com/QuantumFluxx)
